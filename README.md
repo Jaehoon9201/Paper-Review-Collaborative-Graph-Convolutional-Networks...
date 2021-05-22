@@ -1,7 +1,6 @@
-# Paper-Review-Collaborative Graph Convolutional Networks : unsupervised learning meets semi-supervised learning
-### Collaborative Graph Convolutional Networks: Unsupervised Learning Meets Semi-Supervised Learning
-#### Binyuan Hui (Tianjin University)*; Pengfei Zhu (tianjin university); Qinghua Hu (Tianjin University)
-### [Link](https://ojs.aaai.org//index.php/AAAI/article/view/5843)
+# [Paper-Review] : Paper-Review-Collaborative Graph Convolutional Networks : unsupervised learning meets semi-supervised learning 2020, AAAI
+## **[Review Paper Link](https://ojs.aaai.org//index.php/AAAI/article/view/5843)**
+## Review 
 
 #### PPT material is made by Jaehoon9201
 ## 1
